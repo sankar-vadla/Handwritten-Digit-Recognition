@@ -1,1 +1,1 @@
-# Neural-Network-based-Handwritten-Digit-Recognition
+# Handwritten-Digit-Recognition
